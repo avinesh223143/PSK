@@ -1,5 +1,5 @@
-# EX 06 Phase-shift keying (PSK) 
-## Date:15/04/25
+# EX 3c Phase-shift keying (PSK) 
+## Date:19/04/25
 ### Aim
     Implement and analyze Phase-shift keying (PSK)  using Python colab.
 ### Tools required
